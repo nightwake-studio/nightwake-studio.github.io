@@ -1,1 +1,6 @@
 .DS_Store
+
+# Claude Code internal config
+CLAUDE.md
+AGENTS.md
+.claude/
